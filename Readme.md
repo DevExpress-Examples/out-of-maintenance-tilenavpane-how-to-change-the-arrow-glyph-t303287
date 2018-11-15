@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomTileNavPane.cs](./CS/WindowsFormsApplication79/CustomTileNavPane.cs) (VB: [CustomTileNavPaneViewInfo.vb](./VB/WindowsFormsApplication79/CustomTileNavPaneViewInfo.vb))
+* [CustomTileNavPaneViewInfo.cs](./CS/WindowsFormsApplication79/CustomTileNavPaneViewInfo.cs) (VB: [CustomTileNavPaneViewInfo.vb](./VB/WindowsFormsApplication79/CustomTileNavPaneViewInfo.vb))
+* [Form1.cs](./CS/WindowsFormsApplication79/Form1.cs) (VB: [Form1.vb](./VB/WindowsFormsApplication79/Form1.vb))
+* [Program.cs](./CS/WindowsFormsApplication79/Program.cs) (VB: [Program.vb](./VB/WindowsFormsApplication79/Program.vb))
+<!-- default file list end -->
 # TileNavPane - How to change the arrow glyph
 
 
